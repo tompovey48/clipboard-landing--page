@@ -1,2 +1,2 @@
-# clipboard-landing--page
+# clipboard-landing-page
 Frontend Mentor Training
